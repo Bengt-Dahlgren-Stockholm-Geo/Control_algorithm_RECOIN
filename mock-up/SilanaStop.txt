@@ -1,0 +1,3 @@
+false
+
+# write true or 1 or yes to stop the control algorithm
